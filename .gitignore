@@ -2,12 +2,12 @@ mobile/node_modules/
 mobile/.expo/
 mobile/dist/
 mobile/npm-debug.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
-*.orig.*
+mobile/*.jks
+mobile/*.p8
+mobile/*.p12
+mobile/*.key
+mobile/*.mobileprovision
+mobile/*.orig.*
 mobile/web-build/
 
 # macOS
